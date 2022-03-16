@@ -1,0 +1,5 @@
+backups
+collection.media/*
+!collection.media/paste*.*
+*.log
+*.txt
