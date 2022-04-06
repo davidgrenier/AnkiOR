@@ -2,5 +2,4 @@
 
 * Linear Programming
 * Operational Research Models
-* Numerical Optimization
-* Numerical Linear Algebra
+* Applied Linear Algebra
